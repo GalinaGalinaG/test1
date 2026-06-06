@@ -1,0 +1,23 @@
+      p {
+                  font-size: 30px;
+                  color:rgb(90, 20, 255);
+
+            }
+body {
+      background-color:rgb(175, 201, 250);
+
+}
+#myHeader {
+  background-color: lightblue;
+  color: rgb(90, 20, 255);
+  padding: 40px;
+  text-align: center;
+  font-size: 60px;
+}
+.city {
+  background-color: rgb(173, 216, 230);
+  color: rgb(90, 20, 255);
+  border: 2px solid rgb(49, 11, 219);
+  margin: 20px;
+  padding: 20px;
+}
